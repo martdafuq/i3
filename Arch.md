@@ -1,5 +1,6 @@
-<img src="Asset/images/archlinux.png"/>
 ### Arch Linux Overview
+
+<img src="Asset/images/archlinux.png" width=200/>
 
 **Arch Linux** is a minimalist, rolling-release [[Linux]] distribution known for its simplicity, user control, and up-to-date software.
 
@@ -23,7 +24,7 @@
 
 > Because **Arch Linux** is minimal and doesn't include bloatware GUI apps like **Gnome System Monitor**, I can get all the system information I need directly from the Terminal.
 
->I like the command to install packages using `pacman`.
+> I like the command to install packages using `pacman`.
 
 > You can checkout [[Linux#**Linux Overview**]].
 
