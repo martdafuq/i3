@@ -80,10 +80,19 @@ Here are some key features:
 #### Terminal Apps
 
 - **htop & btop**: System monitoring tools providing real-time resource usage insights, with `btop` offering a more modern, graphical interface.
-- **cava**: A cross-platform audio visualizer that syncs with audio output for visual effects in the terminal.![[cava.gif]]
-- **neofetch**: Displays system information and aesthetics for the terminal.![[neofetch.png]]
+- **cava**: A cross-platform audio visualizer that syncs with audio output for visual effects in the terminal.
+
+    <img src="Asset/images/cava.gif" width=300/>
+
+- **neofetch**: Displays system information and aesthetics for the terminal.
+
+    <img src="Asset/images/neofetch.png" width=500/>
+
 - **mpv**: Lightweight and versatile media player.
-- **ranger**: Terminal-based file manager with a focus on keyboard shortcuts and efficiency.![[rangershowcase.png]]
+- **ranger**: Terminal-based file manager with a focus on keyboard shortcuts and efficiency.
+
+    <img src="Asset/images/rangershowcase.png" width=500/>
+
 - **rofi**: A customizable application launcher and window switcher.
 - **feh**: Image viewer and background setter for the terminal.
 - **alsamixer**: Audio mixer interface for managing sound levels through ALSA (Advanced Linux Sound Architecture) in the terminal.
@@ -92,7 +101,7 @@ Here are some key features:
 
 #### **Theme**
 
-<img src="Asset/images/catppuccin.png" width=100/>
+<img src="Asset/images/catppuccin.png" width=200/>
 
 >I use **Catppuccin Frappé**.
 
