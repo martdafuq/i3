@@ -1,5 +1,6 @@
-![[Tux.svg|100]] 
 ### **Linux Overview**
+
+<img src="Asset/images/Tux.svg" width=200>
 
 **Linux** is a versatile, open-source operating system based on the Unix architecture. Its main characteristics are stability, flexibility, and high customization, making it a popular choice among developers, system administrators, and tech enthusiasts.
 
@@ -21,13 +22,14 @@
 
 > Then I tried [Kali Linux](https://www.kali.org/) because I wanted to **hack** the router in my dormitory. However, I gave up because I preferred playing games on Microsoft Windows rather than learning.
 
-> Then I used [_Pop!_OS_](https://pop.system76.com/), and I fell in love with this [distro](https://distrowatch.com/). However, I couldn't play [League of Legends](https://www.leagueoflegends.com/en-us/) because it requires the [Garena](https://www.garena.co.th/) launcher. I tried to launch it on [Lutris](https://lutris.net/)—it didn’t work at first, so I edited the script to run League of Legends and made it public in the Lutris community. It worked, but the loading time was too long, and there were some occasional crashes, so I went back to Microsoft Windows.
+> Then I used [Pop!_OS](https://pop.system76.com/), and I fell in love with this [distro](https://distrowatch.com/). However, I couldn't play [League of Legends](https://www.leagueoflegends.com/en-us/) because it requires the [Garena](https://www.garena.co.th/) launcher. I tried to launch it on [Lutris](https://lutris.net/)—it didn’t work at first, so I edited the script to run League of Legends and made it public in the Lutris community. It worked, but the loading time was too long, and there were some occasional crashes, so I went back to Microsoft Windows.
 
-> After that, I tried so many distros that I became a **distro hopper**. I experimented with [Ubuntu](https://ubuntu.com/), [Mint](https://linuxmint.com/), [Debian](https://www.debian.org/), [Fedora](https://fedoraproject.org/), [Kali](https://www.kali.org/), [Tails OS](https://tails.net/), [MX Linux](https://mxlinux.org/), [Manjaro](https://manjaro.org/), [EndeavourOS](https://endeavouros.com/), [KDE neon](https://neon.kde.org/), [elementary OS](https://elementary.io/), [Deepin](https://www.deepin.org/index/en), [Xubuntu](https://xubuntu.org/), and [Zorin](https://zorin.com/os/), and eventually ended up with [[Arch]].
+> After that, I tried so many distros that I became a **distro hopper**. I experimented with [Ubuntu](https://ubuntu.com/), [Mint](https://linuxmint.com/), [Debian](https://www.debian.org/), [Fedora](https://fedoraproject.org/), [Kali](https://www.kali.org/), [Tails OS](https://tails.net/), [MX Linux](https://mxlinux.org/), [Manjaro](https://manjaro.org/), [EndeavourOS](https://endeavouros.com/), [KDE neon](https://neon.kde.org/), [elementary OS](https://elementary.io/), [Deepin](https://www.deepin.org/index/en), [Xubuntu](https://xubuntu.org/), and [Zorin](https://zorin.com/os/), and eventually ended up with [Arch](Arch.md).
 
-![[Ccpenguin,_the_ancestor_of_Tux.jpg|100]]
+<img src="Asset/images/Ccpenguin,_the_ancestor_of_Tux.jpg" width=200>
 
 ---
+
 ### What is distro hopper?
 
 > A **distro hopper** is someone who frequently switches between different Linux distributions ("distros") to explore new features, interfaces, and customization options. Distro hopping is often motivated by curiosity or the desire to find the "perfect" Linux setup that balances performance, aesthetics, and functionality.
@@ -42,6 +44,7 @@ Common reasons people distro hop include:
 Popular distros for hopping include [Arch](https://archlinux.org/), [Ubuntu](https://ubuntu.com/), [Fedora](https://fedoraproject.org/), [Debian](https://www.debian.org/), and niche options like [Void](https://voidlinux.org/) or [Gentoo](https://www.gentoo.org/), each offering unique configurations and user experiences.
 
 ---
+
 ### Desktop Environment(DE)
 
 #### **What is Desktop Environment?**
@@ -66,6 +69,7 @@ A **desktop environment (DE)** is a collection of software tools and graphical c
 > Each DE has a unique style, set of features, and level of system resource use. Linux users often choose one that fits their needs and preferences for usability, performance, or aesthetics.
 
 ---
+
 ### What is Window Manager?
 
 A **window manager (WM)** is a crucial component of a graphical user interface (GUI) that controls how windows (the graphical containers for applications) are displayed and interacted with in a desktop environment. While desktop environments typically include a window manager as part of their complete package, standalone window managers provide more minimalist, highly customizable, and performance-focused setups.
@@ -94,26 +98,27 @@ A **window manager (WM)** is a crucial component of a graphical user interface (
 
 - **[i3](https://i3wm.org/)**: A highly configurable tiling window manager that’s minimal but powerful.
 - **[Xmonad](https://xmonad.org/)**: Another tiling window manager written in Haskell, designed to be simple and efficient.
-- [**Openbox**](http://openbox.org/): A floating window manager known for its simplicity and flexibility.
+- **[Openbox](http://openbox.org/)**: A floating window manager known for its simplicity and flexibility.
 - **[Awesome](https://awesomewm.org/)**: A dynamic tiling window manager that’s known for its Lua scripting support and extensibility.
-- **[Sway](https://swaywm.org/)**: A tiling window manager that is compatible with Wayland, designed to be a drop-in replacement for [[i3]].
+- **[Sway](https://swaywm.org/)**: A tiling window manager that is compatible with Wayland, designed to be a drop-in replacement for [i3](i3.md).
 
 > In essence, the window manager is responsible for controlling the layout, look, and functionality of the windows within your operating system, offering users control over their computing environment.
 
-> I tried almost every Desktop Environment (DE), but not as many Window Managers. I chose [[i3]] after finding a video by [EF - Linux Made Simple](https://www.youtube.com/@eflinux) on [YouTube](https://www.youtube.com/). It inspired and excited me. I also discovered [[i3]] users like [Luke Smith](https://www.youtube.com/@LukeSmithxyz) and [James Scholz](https://www.youtube.com/@JamesScholz), who made it look so cool that I decided to go with [[i3]].
+> I tried almost every Desktop Environment (DE), but not as many Window Managers. I chose [i3](i3.md) after finding a video by [EF - Linux Made Simple](https://www.youtube.com/@eflinux) on [YouTube](https://www.youtube.com/). It inspired and excited me. I also discovered [i3](i3.md) users like [Luke Smith](https://www.youtube.com/@LukeSmithxyz) and [James Scholz](https://www.youtube.com/@JamesScholz), who made it look so cool that I decided to go with [i3](i3.md).
 
 ---
+
 ### Why Linux?
 
 > Because I hate this.
 
-![[bluescreen.jpg]]
+<img src="Asset/images/bluescreen.jpg" width=500/>
 
 > And I love this.
 
-![[main.png]]
+<img src="Asset/images/main.png" width=500/>
 
-> Check out [[i3]].
+> Check out [i3](i3.md) config.
 
 Linux offers more **customization** than Windows. It doesn't take much time to install, but it requires time to learn. I have a quote:
 

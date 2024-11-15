@@ -10,9 +10,10 @@ In Linux, a **workspace** refers to a virtual desktop environment that lets user
 4. **Workflow Efficiency**: Virtual workspaces reduce distractions by letting users group related tasks separately, improving focus and efficiency.
 
 > Workspaces in Linux are especially helpful for power users and those managing multiple tasks on a single monitor.
+
 ---
 
-> Here's my workspace [[Dunst]] script. Check the [[i3]] file to see how to use it.
+> Here's my workspace [Dunst](Dunst.md) script. Check the [i3](i3.md) file to see how to use it.
 
 ```
 #!/bin/bash
@@ -25,16 +26,19 @@ WORKSPACE=$(i3-msg -t get_workspaces | jq -r '.[] | select(.focused==true).name'
 notify-send "Workspace Number" "Current Workspace: $WORKSPACE" -u normal -t 1000
 ```
 ---
+
 ### How it work?
 This code sends a notification when the workspace changes, letting me know which workspace I'm currently working in. It triggers a notification whenever I press `mod+CTRL+left` or `mod+CTRL+right`.
 
 ---
+
 ### How to install?
 Create a file named `workspace_notify.sh` in either `~/.local/bin` or `~/.config/i3`. Copy the code and paste it into the file.
 
 ---
+
 ### Screenshot
 
-![[workspace.png]]
+<img src="Asset/images/workspace.png">
 
 ---

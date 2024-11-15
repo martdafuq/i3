@@ -1,5 +1,5 @@
 
-> Here's the code to execute in [[i3]] using `mod+Shift+t` to get a notification that shows the date & time.
+> Here's the code to execute in [i3](i3.md) using `mod+Shift+t` to get a notification that shows the date & time.
 
 ---
 ```
@@ -19,6 +19,6 @@ Create a file named `datetime.sh` in either `~/.local/bin` or `~/.config/i3`. Co
 ---
 ### Screenshot
 
-![[dt.png]]
+<img src="Asset/images/dt.png">
 
 ---

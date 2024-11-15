@@ -2,10 +2,12 @@
 
 [Dunst](https://dunst-project.org/) is a lightweight replacement for the notification daemons provided by most desktop environments. It’s highly customizable, not dependent on any toolkits, and therefore fits perfectly into those window manager-centric setups that we all love to customize to perfection.
 
-> I use [Dunst](https://dunst-project.org/) to get notifications for [[System Information]], [[Volume]], [[Date & Time]], and [[Workspace]].
+> I use [Dunst](https://dunst-project.org/) to get notifications for [System Information](/System%20Information.md), [Volume](/Volume.md), [Date & Time](/Date%20&%20Time.md), and [Workspace](/Workspace.md).
 
 > Check out my Dunst config.
+
 ---
+
 ### Config
 
 ```
@@ -104,10 +106,14 @@ Replace file  `dunstrc` in `~/.config/dunst`.
 ---
 ### Screenshot
 
-![[sysinfo.png]] 
-![[dt.png]]
-![[workspace.png]]
-![[volume.png]]
-![[volumemute.png]]
+<img src="Asset/images/sysinfo.png">
+
+<img src="Asset/images/dt.png">
+
+<img src="Asset/images/workspace.png">
+
+<img src="Asset/images/volume.png">
+
+<img src="Asset/images/volumemute.png">
 
 ---

@@ -1,5 +1,5 @@
 
-> Here's my volume [[Dunst]] script. Check the [[i3]] file to see how to use it.
+> Here's my volume [Dunst](Dunst.md) script. Check the [i3](i3.md) file to see how to use it.
 
 ---
 ```
@@ -43,13 +43,15 @@ case $1 in
 esac
 ```
 ---
+
 ### How to install?
 
 Create a file named `volume.sh` in either `~/.local/bin` or `~/.config/i3`. Copy the code and paste it into the file.
 
 ---
+
 ### Screenshot
 
-![[volume.png]] ![[volumemute.png]]
+<img src="Asset/images/volume.png"> <img src="Asset/images/volumemute.png">
 
 ---

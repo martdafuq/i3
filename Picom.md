@@ -1,6 +1,6 @@
 ### Picom Overview
 
-**Picom** is a lightweight and configurable compositor for Xorg, commonly used in tiling window manager setups like [[i3]]. It provides subtle visual effects and improvements, enhancing the user experience on minimalist setups.
+**Picom** is a lightweight and configurable compositor for Xorg, commonly used in tiling window manager setups like [i3](i3.md). It provides subtle visual effects and improvements, enhancing the user experience on minimalist setups.
 
 #### Key Features:
 
@@ -11,12 +11,13 @@
 
 #### Common Use Cases:
 
-- **Tiling Window Managers**: Often paired with window managers like [[i3]], bspwm, and Openbox to provide added visual polish.
+- **Tiling Window Managers**: Often paired with window managers like [i3](i3.md), bspwm, and Openbox to provide added visual polish.
 - **Custom Ricing**: Ideal for users who want to enhance their system aesthetics without overloading their system resources.
 
 > Picom is favored in lightweight environments for users who want subtle visual enhancements without sacrificing performance.
 
 > Check out my picom config.
+
 ---
 
 ```
@@ -156,7 +157,9 @@ spawn-center-screen = true;
 spawn-center = true;
 ```
 ---
+
 ### How to install?
+
 Create a file named `picom.conf` in `~/.config/picom`. Copy the code and paste it into the file.
 
 ---

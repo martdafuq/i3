@@ -1,8 +1,9 @@
-> All I need to know about the system is just the CPU load and RAM usage. That's enough for me without using [[Nobar Story]].
+> All I need to know about the system is just the CPU load and RAM usage. That's enough for me without using [Nobar Story](Nobar%20Story.md).
 
-> Here's the code to execute in [[i3]] using `mod+Shift+s` to get a notification that shows the system status.
+> Here's the code to execute in [i3](i3.md) using `mod+Shift+s` to get a notification that shows the system status.
 
 ---
+
 ```
 #Get CPU and RAM info
 CPU_LOAD=$(awk -v FS=" " '{if ($1=="cpu") {usage=($2+$4)*100/($2+$4+$5); print usage}}' /proc/stat | head -1 | awk '{printf "%.1f%%", $1}')
@@ -17,13 +18,15 @@ RAM Usage: $RAM_USAGE
 ```
 
 ---
+
 ### How to install?
 
 Create a file named `sysinfo.sh` in either `~/.local/bin` or `~/.config/i3`. Copy the code and paste it into the file.
 
 ---
+
 ### Screenshot
 
-![[sysinfo.png]]
+<img src="Asset/images/sysinfo.png">
 
 ---
