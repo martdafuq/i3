@@ -2,6 +2,7 @@
 > Linux has many alternative applications for **Windows** software. Let’s look at the apps I use daily.
 
 ---
+
 ### **Browser**
 
 >I use three browsers, but primarily I use Firefox.
@@ -11,15 +12,17 @@
 | Firefox                          | Brave                         | qutebrowser               |
 
 ---
+
 ### **File Manager**
 
 >I use two file managers; primarily, I use Ranger, with Thunar as an optional GUI.
 
-| ![[Ranger_logo.png\|100]] | ![[Thunar.svg\|100]] |
+| <img src="Asset/images/Ranger_logo.png" width=100/> | <img src="Asset/images/Thunar.svg" width=100/> |
 | ------------------------- | -------------------- |
 | Ranger                    | Thunar               |
 
 ---
+
 #### **What is Ranger?**
 
 **Ranger** is a lightweight, console-based file manager designed for Unix-like systems. It’s known for its minimalist and keyboard-driven interface, offering powerful navigation with a unique multi-column view that resembles the style of _Miller columns_, similar to macOS Finder.
@@ -35,23 +38,26 @@ Here are some key features:
 >Overall, Ranger is an efficient and versatile tool for users who prefer a terminal-based file management experience and like to navigate with the keyboard.
 
 ---
+
 ##### Screenshot
 
-![[ranger.png]]
+<img src="Asset/images/ranger.png" width=500/>
 
 ---
 ### Code Editor
 
 >I use three code editors: VS Code for project coding, Vim for editing my [i3](i3.md) config, and Neovim, which I’m still learning.
 
-| ![[Vimlogo.svg\|100]] | ![[Visual_Studio_Code_1.35_icon.svg\|100]] | ![[neovim.png\|100]] |
+| <img src="Asset/images/Vimlogo.svg" width=100/> | <img src="Asset/images/Visual_Studio_Code_1.35_icon.svg" width=100/> | <img src="Asset/images/neovim.png" width=100/> |
 | --------------------- | ------------------------------------------ | -------------------- |
 | Vim                   | VS Code                                    | Neovim               |
 
 ---
+
 ### Etc.
 
 >Other apps I use in daily life.
+
 #### GUI Apps
 
 - **LibreOffice**: A full-featured office suite for editing documents, spreadsheets, and presentations.
@@ -83,6 +89,7 @@ Here are some key features:
 - **alsamixer**: Audio mixer interface for managing sound levels through ALSA (Advanced Linux Sound Architecture) in the terminal.
 
 ---
+
 #### **Theme**
 
 <img src="Asset/images/catppuccin.png" width=100/>
