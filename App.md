@@ -6,7 +6,7 @@
 
 >I use three browsers, but primarily I use Firefox.
 
-| ![[Firefox_logo,_2019.svg\|100]] | ![[Brave_lion_icon.svg\|100]] | ![[Qutebrowser.svg\|100]] |
+| <img src="Asset/images/Firefox_logo,_2019.svg" width=100/> | <img src="Asset/images/Brave_lion_icon.svg" width=100/> | <img src="Asset/images/Qutebrowser.svg" width=100/> |
 | -------------------------------- | ----------------------------- | ------------------------- |
 | Firefox                          | Brave                         | qutebrowser               |
 
@@ -42,7 +42,7 @@ Here are some key features:
 ---
 ### Code Editor
 
->I use three code editors: VS Code for project coding, Vim for editing my [[i3]] config, and Neovim, which I’m still learning.
+>I use three code editors: VS Code for project coding, Vim for editing my [i3](i3.md) config, and Neovim, which I’m still learning.
 
 | ![[Vimlogo.svg\|100]] | ![[Visual_Studio_Code_1.35_icon.svg\|100]] | ![[neovim.png\|100]] |
 | --------------------- | ------------------------------------------ | -------------------- |
@@ -85,7 +85,8 @@ Here are some key features:
 ---
 #### **Theme**
 
-![[catppuccin.png|100]]
+<img src="Asset/images/catppuccin.png" width=100/>
+
 >I use **Catppuccin Frappé**.
 
 ---

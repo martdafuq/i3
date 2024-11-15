@@ -2,7 +2,7 @@
 
 <img src="Asset/images/archlinux.png" width=500/>
 
-**Arch Linux** is a minimalist, rolling-release [[Linux]] distribution known for its simplicity, user control, and up-to-date software.
+**Arch Linux** is a minimalist, rolling-release [Linux](Linux.md) distribution known for its simplicity, user control, and up-to-date software.
 
 #### Key Points:
 
@@ -26,8 +26,8 @@
 
 > I like the command to install packages using `pacman`.
 
-> You can checkout [[Linux#**Linux Overview**]].
+> You can checkout [Linux](Linux.md#linux-overview).
 
-> I prefer to use Arch with [[i3]].
+> I prefer to use Arch with [i3](i3.md).
 
 ---
