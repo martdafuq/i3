@@ -1,6 +1,6 @@
 ### Arch Linux Overview
 
-<img src="Asset/images/archlinux.png" width=200/>
+<img src="Asset/images/archlinux.png" width=500/>
 
 **Arch Linux** is a minimalist, rolling-release [[Linux]] distribution known for its simplicity, user control, and up-to-date software.
 
